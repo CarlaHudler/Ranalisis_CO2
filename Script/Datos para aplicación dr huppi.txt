@@ -1,0 +1,34 @@
+Tiempo para aplicación y determinación del F. detect (Dr. Hüppi)
+
+* área cámara (m2): 0.169646
+* volumen cámara (m3): 0.05340072
+des. estándar cálculada (se uso la más grande de los 4 cálculos realizados)
+* desv. estándar N2O: 11 (ppb)
+* desv. estándar CH4: 122.06 (ppb)
+* desv. estándar CO2: 7346.62 (ppb)
+
+
+* 5 minutos:
+0; 0.006; 0.012; 0.018; 0.024; 0.030; 0.036; 0.042; 0.048; 0.054; 0.061; 0.067; 0.073; 0.079; 0.085; 0.091
+* resultados CH4: 
+[1] "Estimated minimal detectable flux:"
+    97.5% 
+283.6154 
+[1] "[mg CO2/m^2/h ]"
+[1] "Number of HMR fluxes detected:"
+[1] 25
+
+
+
+
+* 10 minutos: 
+0; 0.006; 0.012; 0.018; 0.024; 0.030; 0.036; 0.042; 0.048; 0.054; 0.060; 0.066; 0.072; 0.078; 0.084; 0.090; 0.096; 0.102; 0.108; 0.114; 0.120; 0.126; 0.132; 0.138; 0.144; 0.150; 0.156; 0.162; 0.168 
+* resultados CH4: 
+[1] "Estimated minimal detectable flux:"
+    97.5% 
+371.1999 
+[1] "[mg CO2/m^2/h ]"
+[1] "Number of HMR fluxes detected:"
+[1] 28
+
+
